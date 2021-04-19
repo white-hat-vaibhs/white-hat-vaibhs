@@ -16,7 +16,7 @@ Skills: REACT/NODE/EXPRESS/LINUX/LIQUID/CLOUD/CI/CD
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=white-hat-vaibhs)](https://github.com/white-hat-vaibhs)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=white-hat-vaibhs)](https://github.com/white-hat-vaibhs)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=white-hat-vaibhs)](https://github.com/white-hat-vaibhs) -->
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=white-hat-vaibhs&show_icons=true&count_private=true)  
 
