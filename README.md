@@ -5,7 +5,7 @@
 Skills: REACT/NODE/EXPRESS/LINUX/LIQUID/CLOUD/CI/CD
 
 - 🔭 I’m currently working on Shopify theme development 
-- 🌱 I’m currently learning Shopify on weekdays and React on weekends 
+- 🌱 React on weekends 
 - 📫 How to reach me: vaibhavjain3999@gmail.com 
 - 😄 Pronouns: He/Him 
 
